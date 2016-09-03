@@ -84,3 +84,7 @@ Para la generación de las diferentes alternativas de solución se aclaró el pr
 
 •Generación de concepto de diseño:
 El dispositivo será un tipo de prótesis veterinaria para un perro que sufrió una amputación medio femoral de la extremidad posterior izquierda, que refleje en está el concepto de adaptabilidad, es decir, que sea realizada específicamente para el perro en cuestión teniendo en cuenta sus medidas anatómicas, también priorizando la seguridad del animal, mejorando su calidad de vida, ofreciendo una alternativa que ayude a suplir la falta del miembro posterior izquierdo de un perro de la zona rural de Santiago de Cali, teniendo en cuenta que la prótesis debe ser ergonómica, sencilla, de fácil uso y asequible con los materiales proporcionados por la universidad.
+
+Leer Artículo:
+http://caracol.com.co/emisora/2016/08/31/cali/1472645322_339526.html
+http://www.90minutos.co/content/estudiantes-de-la-autonoma-ayudan-a-animales-discapacitados
