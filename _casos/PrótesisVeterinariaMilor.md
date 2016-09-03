@@ -6,9 +6,9 @@ Header:
   Image: https://raw.githubusercontent.com/3DPaws/3DPaws.github.io/f4d9be0fa84f53dc8710d1444ffc702b306d234c/images/DSC01225.jpg
   Image: https://raw.githubusercontent.com/3DPaws/3DPaws.github.io/d46703acad5a07cb5af5d24b1a4e16ddfcf11840/images/DSC01220.jpg
 Sidebar:
-  - title: "Grupo Ingeniería Biomédica"
+  - title: "Grupo 6A"
     Image: https://github.com/3DPaws/3DPaws.github.io/blob/master/images/DSC01228.jpg?raw=true
-    Text: "Diseño y fabricación de prótesis veterinarias, Universidad Autónoma Occidente- Cali"
+    Text: "Diseño y fabricación de prótesis veterinaria"
   
 gallery:
   - URL: https://raw.githubusercontent.com/3DPaws/3DPaws.github.io/7de08c026071bc5f94735308b53e2577442581b2/images/vfwefwfw.jpg
@@ -18,6 +18,14 @@ gallery:
   - URL: https://raw.githubusercontent.com/3DPaws/3DPaws.github.io/0d2db8d43e214b7ee1ddbbcd60d03beb9d5b153b/images/xswdewdqe.jpg
     Alt: "Alternativa de solución 3"
 ---
+
+#PROPUESTA DE IMPLEMENTACIÓN DE UNA PRÓTESIS VETERINARIA#
+
+Laura Escogar Gómez - Estudiante de ingeniería biomédica                                                                              
+María Camila Thorp Flórez - Estudiante de ingeniería biomédica                                                                     
+Juan Camilo Vergara Gil - Estudiante de ingeniería biomédica
+
+UNIVERSIDAD AUTÓNOMA DE OCCIDENTE - SANTIAGO DE CALI, COLOMBIA
 
 #INTRODUCCIÓN#
 
